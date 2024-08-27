@@ -54,7 +54,7 @@
 :collapsedHeight 0
 :nonce 1724757582700}}
 :block/updated-at 1724758560291} 
-{:block/created-at 1724759753305
+{:block/created-at 1724777201573
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -70,7 +70,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 113.00004753795562]
+:size [400 195.00004253160893]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -79,9 +79,9 @@
 :point [2440 -2560]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :collapsedHeight 0
-:nonce 1724758571048}}
-:block/updated-at 1724759753305} 
-{:block/created-at 1724759995655
+:nonce 1724758571055}}
+:block/updated-at 1724777201573} 
+{:block/created-at 1724777323140
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -106,8 +106,8 @@
 :point [2848 -2560]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :collapsedHeight 0
-:nonce 1724759877718}}
-:block/updated-at 1724759995655} 
+:nonce 1724759877729}}
+:block/updated-at 1724777323140} 
 {:block/content "{:title \"🔨 NOW\"\n    :query [:find (pull ?h [*])\n            :in $ ?start ?today\n            :where\n            [?h :block/marker ?marker]\n            [(contains? #{\"NOW\" \"DOING\"} ?marker)]\n            [?h :block/page ?p]\n            [?p :block/journal? true]\n            [?p :block/journal-day ?d]\n            [(>= ?d ?start)]\n            [(<= ?d ?today)]]\n    :inputs [:14d :today]\n    :result-transform (fn [result]\n                        (sort-by (fn [h]\n                                   (get h :block/priority \"Z\")) result))\n    :group-by-page? false\n    :collapsed? false}"
 :block/format :markdown
 :block/left 
@@ -116,7 +116,93 @@
 {:block/uuid #uuid "66cdaf45-e52c-4043-9cc7-12302e45950a"}
 :block/properties 
 {}
-:block/uuid #uuid "66cdbfbb-2f04-4343-9eae-73b672ea377c"})
+:block/uuid #uuid "66cdbfbb-2f04-4343-9eae-73b672ea377c"} 
+{:block/created-at 1724777376181
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "66ce0376-fcc6-4663-a563-1bcb5cb2a1aa"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 271.00001968953774]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "51533640-6494-11ef-abaa-d37dcc9002af"
+:noFill false
+:point [1216 -2560]
+:parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
+:collapsedHeight 0
+:nonce 1724777365700}}
+:block/updated-at 1724777376181} 
+{:block/created-at 1724777425416
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 5
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [164 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5aa20640-6494-11ef-abaa-d37dcc9002af"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [1208 -2632]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
+:nonce 1724777381274
+:italic false
+:text "FAZENDO"}}
+:block/updated-at 1724777425416} 
+{:block/created-at 1724777420813
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 6
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [182 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6c8ca9f0-6494-11ef-abaa-d37dcc9002af"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked false
+:point [1632 -2632]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
+:nonce 1724777381481
+:italic false
+:text "PROJETOS"}}
+:block/updated-at 1724777420813})
 :pages (
 {:block/uuid #uuid "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :block/properties 
@@ -128,8 +214,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af" "8ee84da0-6468-11ef-abaa-d37dcc9002af" "99d0a200-646b-11ef-abaa-d37dcc9002af")}}
-:block/updated-at 1724760878905
+:shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af" "8ee84da0-6468-11ef-abaa-d37dcc9002af" "99d0a200-646b-11ef-abaa-d37dcc9002af" "51533640-6494-11ef-abaa-d37dcc9002af" "5aa20640-6494-11ef-abaa-d37dcc9002af" "6c8ca9f0-6494-11ef-abaa-d37dcc9002af")}}
+:block/updated-at 1724777425416
 :block/created-at 1724755781868
 :block/type "whiteboard"
 :block/name "work"
