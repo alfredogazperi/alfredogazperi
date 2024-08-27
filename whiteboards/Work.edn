@@ -400,7 +400,7 @@
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :nonce 1724780400568}}
 :block/updated-at 1724780405880} 
-{:block/created-at 1724780412538
+{:block/created-at 1724780974209
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -410,11 +410,11 @@
 :type "group"
 :size [0 0]
 :id "686717f0-649b-11ef-abaa-d37dcc9002af"
-:isLocked true
+:isLocked false
 :point [0 0]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
-:nonce 1724780410608}}
-:block/updated-at 1724780412538})
+:nonce 1724780410609}}
+:block/updated-at 1724780974209})
 :pages (
 {:block/uuid #uuid "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :block/properties 
@@ -427,7 +427,7 @@
 :nonce 1
 :assets []
 :shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af" "8ee84da0-6468-11ef-abaa-d37dcc9002af" "99d0a200-646b-11ef-abaa-d37dcc9002af" "6c8ca9f0-6494-11ef-abaa-d37dcc9002af" "5aa20640-6494-11ef-abaa-d37dcc9002af" "2dea9df0-6495-11ef-abaa-d37dcc9002af" "bea2c350-6494-11ef-abaa-d37dcc9002af" "3de5cdb0-6495-11ef-abaa-d37dcc9002af" "ef34bf00-6499-11ef-abaa-d37dcc9002af" "4d23c7f0-6495-11ef-abaa-d37dcc9002af" "56164720-6495-11ef-abaa-d37dcc9002af" "6262df10-649b-11ef-abaa-d37dcc9002af" "686717f0-649b-11ef-abaa-d37dcc9002af")}}
-:block/updated-at 1724780412538
+:block/updated-at 1724780974208
 :block/created-at 1724755781868
 :block/type "whiteboard"
 :block/name "work"
