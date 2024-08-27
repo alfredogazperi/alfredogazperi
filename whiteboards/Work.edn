@@ -224,7 +224,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66ce0509-a83f-4344-9d28-a287224b7554"} 
-{:block/created-at 1724777873120
+{:block/created-at 1724777945878
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -238,19 +238,20 @@
 :scaleLevel "md"
 :fill ""
 :compact true
-:isAutoResizing false
+:isAutoResizing true
 :type "logseq-portal"
-:size [400 186.00008395303186]
+:size [400 269.9999715340079]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "2dea9df0-6495-11ef-abaa-d37dcc9002af"
 :noFill false
+:isLocked true
 :point [1200 -2560]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :collapsedHeight 0
-:nonce 1724777735698}}
-:block/updated-at 1724777873120} 
+:nonce 1724777735703}}
+:block/updated-at 1724777945878} 
 {:block/content "{{query (task LATER TODO)}}"
 :block/format :markdown
 :block/left 
@@ -260,7 +261,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66ce0523-d6c6-4ca2-a7d0-9226094490ce"} 
-{:block/created-at 1724777882947
+{:block/created-at 1724777929166
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -282,11 +283,12 @@
 :opacity 1
 :id "3de5cdb0-6495-11ef-abaa-d37dcc9002af"
 :noFill false
+:isLocked true
 :point [392 -2560]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :collapsedHeight 0
-:nonce 1724777763793}}
-:block/updated-at 1724777882947} 
+:nonce 1724777763794}}
+:block/updated-at 1724777929166} 
 {:block/created-at 1724777890685
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -326,7 +328,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66ce054b-0cf5-44cd-9d33-bdad3b134e1f"} 
-{:block/created-at 1724777881389
+{:block/created-at 1724777952364
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -349,11 +351,12 @@
 :opacity 1
 :id "56164720-6495-11ef-abaa-d37dcc9002af"
 :noFill false
+:isLocked true
 :point [800 -2560]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :collapsedHeight 0
-:nonce 1724777803007}}
-:block/updated-at 1724777881389})
+:nonce 1724777803010}}
+:block/updated-at 1724777952364})
 :pages (
 {:block/uuid #uuid "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :block/properties 
@@ -366,7 +369,7 @@
 :nonce 1
 :assets []
 :shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af" "8ee84da0-6468-11ef-abaa-d37dcc9002af" "99d0a200-646b-11ef-abaa-d37dcc9002af" "5aa20640-6494-11ef-abaa-d37dcc9002af" "6c8ca9f0-6494-11ef-abaa-d37dcc9002af" "bea2c350-6494-11ef-abaa-d37dcc9002af" "2dea9df0-6495-11ef-abaa-d37dcc9002af" "3de5cdb0-6495-11ef-abaa-d37dcc9002af" "4d23c7f0-6495-11ef-abaa-d37dcc9002af" "56164720-6495-11ef-abaa-d37dcc9002af")}}
-:block/updated-at 1724777896455
+:block/updated-at 1724777952364
 :block/created-at 1724755781868
 :block/type "whiteboard"
 :block/name "work"
