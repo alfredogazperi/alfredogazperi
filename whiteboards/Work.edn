@@ -224,7 +224,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66ce0509-a83f-4344-9d28-a287224b7554"} 
-{:block/created-at 1724777945878
+{:block/created-at 1724777999467
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -240,7 +240,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 269.9999715340079]
+:size [400 185.99982379756463]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -250,8 +250,8 @@
 :point [1200 -2560]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :collapsedHeight 0
-:nonce 1724777735703}}
-:block/updated-at 1724777945878} 
+:nonce 1724777735725}}
+:block/updated-at 1724777999467} 
 {:block/content "{{query (task LATER TODO)}}"
 :block/format :markdown
 :block/left 
@@ -328,7 +328,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "66ce054b-0cf5-44cd-9d33-bdad3b134e1f"} 
-{:block/created-at 1724777952364
+{:block/created-at 1724777990382
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -345,7 +345,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [392 101.00011643848137]
+:size [392 101.00009374663014]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -355,8 +355,35 @@
 :point [800 -2560]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :collapsedHeight 0
-:nonce 1724777803010}}
-:block/updated-at 1724777952364})
+:nonce 1724777803013}}
+:block/updated-at 1724777990382} 
+{:block/created-at 1724779805899
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "Emerson Martins - Curso Contabil"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 113.00006537560193]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ef34bf00-6499-11ef-abaa-d37dcc9002af"
+:noFill false
+:point [3256 -2560]
+:parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
+:collapsedHeight 0
+:nonce 1724779777857}}
+:block/updated-at 1724779805899})
 :pages (
 {:block/uuid #uuid "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :block/properties 
@@ -368,8 +395,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af" "8ee84da0-6468-11ef-abaa-d37dcc9002af" "99d0a200-646b-11ef-abaa-d37dcc9002af" "5aa20640-6494-11ef-abaa-d37dcc9002af" "6c8ca9f0-6494-11ef-abaa-d37dcc9002af" "bea2c350-6494-11ef-abaa-d37dcc9002af" "2dea9df0-6495-11ef-abaa-d37dcc9002af" "3de5cdb0-6495-11ef-abaa-d37dcc9002af" "4d23c7f0-6495-11ef-abaa-d37dcc9002af" "56164720-6495-11ef-abaa-d37dcc9002af")}}
-:block/updated-at 1724777952364
+:shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af" "8ee84da0-6468-11ef-abaa-d37dcc9002af" "99d0a200-646b-11ef-abaa-d37dcc9002af" "5aa20640-6494-11ef-abaa-d37dcc9002af" "6c8ca9f0-6494-11ef-abaa-d37dcc9002af" "bea2c350-6494-11ef-abaa-d37dcc9002af" "2dea9df0-6495-11ef-abaa-d37dcc9002af" "3de5cdb0-6495-11ef-abaa-d37dcc9002af" "4d23c7f0-6495-11ef-abaa-d37dcc9002af" "56164720-6495-11ef-abaa-d37dcc9002af" "ef34bf00-6499-11ef-abaa-d37dcc9002af")}}
+:block/updated-at 1724779805899
 :block/created-at 1724755781868
 :block/type "whiteboard"
 :block/name "work"
