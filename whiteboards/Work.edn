@@ -54,7 +54,7 @@
 :collapsedHeight 0
 :nonce 1724757582700}}
 :block/updated-at 1724758560291} 
-{:block/created-at 1724758588284
+{:block/created-at 1724759753305
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -70,7 +70,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 93.00001394508934]
+:size [400 113.00004753795562]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -79,8 +79,71 @@
 :point [2440 -2560]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :collapsedHeight 0
-:nonce 1724758571047}}
-:block/updated-at 1724758588284})
+:nonce 1724758571048}}
+:block/updated-at 1724759753305} 
+{:block/created-at 1724759995655
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "MagmaPay"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 113.00009520526125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "99d0a200-646b-11ef-abaa-d37dcc9002af"
+:noFill false
+:point [2848 -2560]
+:parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
+:collapsedHeight 0
+:nonce 1724759877718}}
+:block/updated-at 1724759995655} 
+{:block/content "{:title \"🔨 NOW\"\n    :query [:find (pull ?h [*])\n            :in $ ?start ?today\n            :where\n            [?h :block/marker ?marker]\n            [(contains? #{\"NOW\" \"DOING\"} ?marker)]\n            [?h :block/page ?p]\n            [?p :block/journal? true]\n            [?p :block/journal-day ?d]\n            [(>= ?d ?start)]\n            [(<= ?d ?today)]]\n    :inputs [:14d :today]\n    :result-transform (fn [result]\n                        (sort-by (fn [h]\n                                   (get h :block/priority \"Z\")) result))\n    :group-by-page? false\n    :collapsed? false}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66cdaf45-e52c-4043-9cc7-12302e45950a"}
+:block/parent 
+{:block/uuid #uuid "66cdaf45-e52c-4043-9cc7-12302e45950a"}
+:block/properties 
+{}
+:block/uuid #uuid "66cdbfbb-2f04-4343-9eae-73b672ea377c"} 
+{:block/created-at 1724760008097
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "66cdbfbb-2f04-4343-9eae-73b672ea377c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 449.0000668237831]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "db1b6a60-646b-11ef-abaa-d37dcc9002af"
+:noFill false
+:point [1216 -2560]
+:parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
+:collapsedHeight 0
+:nonce 1724759987295}}
+:block/updated-at 1724760008097})
 :pages (
 {:block/uuid #uuid "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :block/properties 
@@ -92,9 +155,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af" "8ee84da0-6468-11ef-abaa-d37dcc9002af")}}
-:block/updated-at 1724758588284
+:shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af" "8ee84da0-6468-11ef-abaa-d37dcc9002af" "99d0a200-646b-11ef-abaa-d37dcc9002af" "db1b6a60-646b-11ef-abaa-d37dcc9002af")}}
+:block/updated-at 1724760009840
 :block/created-at 1724755781868
 :block/type "whiteboard"
 :block/name "work"
-:block/original-name "Work"})}
+:block/original-name "work"})}
