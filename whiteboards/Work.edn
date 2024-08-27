@@ -26,7 +26,7 @@
 :collapsedHeight 0
 :nonce 1724755835486}}
 :block/updated-at 1724755942120} 
-{:block/created-at 1724757596101
+{:block/created-at 1724758560291
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -42,7 +42,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 218.99980240758757]
+:size [400 296.00017258523826]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -52,8 +52,35 @@
 :point [2032 -2560]
 :parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :collapsedHeight 0
-:nonce 1724757582697}}
-:block/updated-at 1724757596101})
+:nonce 1724757582700}}
+:block/updated-at 1724758560291} 
+{:block/created-at 1724758588284
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "Indicadores de Reembolso"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 93.00001394508934]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8ee84da0-6468-11ef-abaa-d37dcc9002af"
+:noFill false
+:point [2440 -2560]
+:parentId "66cdaf45-e52c-4043-9cc7-12302e45950a"
+:collapsedHeight 0
+:nonce 1724758571047}}
+:block/updated-at 1724758588284})
 :pages (
 {:block/uuid #uuid "66cdaf45-e52c-4043-9cc7-12302e45950a"
 :block/properties 
@@ -65,8 +92,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af")}}
-:block/updated-at 1724757596101
+:shapes-index ("307c7490-6462-11ef-9b34-8b7c38f64416" "41a0e540-6466-11ef-abaa-d37dcc9002af" "8ee84da0-6468-11ef-abaa-d37dcc9002af")}}
+:block/updated-at 1724758588284
 :block/created-at 1724755781868
 :block/type "whiteboard"
 :block/name "work"
