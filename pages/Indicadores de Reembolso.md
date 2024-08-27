@@ -9,7 +9,7 @@
   CLOCK: [2024-08-27 Tue 12:18:20]
   CLOCK: [2024-08-27 Tue 12:18:24]--[2024-08-27 Tue 13:46:19] =>  01:27:55
   :END:
-- NOW Montar a tela universal de indicadores
+- LATER Montar a tela universal de indicadores
   :LOGBOOK:
-  CLOCK: [2024-08-27 Tue 13:46:25]
+  CLOCK: [2024-08-27 Tue 13:46:25]--[2024-08-27 Tue 15:23:23] =>  01:36:58
   :END:
