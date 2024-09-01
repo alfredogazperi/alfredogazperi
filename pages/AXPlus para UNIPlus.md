@@ -1,1 +1,0 @@
-- [[Aug 27th, 2024]] Foi aprovado. Combinei com eles que iniciariamos o desenvolvimento em [[Sep 11th, 2024]], atualizei as informações do chamado com as meninas do suporte por Skype.
